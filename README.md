@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shwetang Desai
 - 👀 I’m interested in Data Science, Machine Learning, and Backend Development.
-- 🌱 I’m currently a first year Computer Science student at the University of Waterloo. Feel free to check out of some of my projects!
+- 🌱 I’m currently a second year Computer Science student at the University of Waterloo. Feel free to check out of some of my projects!
 - 📧 Email: s45desai@uwaterloo.ca
 - 📫 LinkedIn: www.linkedin.com/in/shwetang-desai-090671229
      
