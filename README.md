@@ -3,7 +3,7 @@
 - 🌱 I’m currently a third year Computer Science student at the University of Waterloo. Feel free to check out of some of my projects!
 - 📧 Email: shwetang.desai@uwaterloo.ca
 - 📫 LinkedIn: www.linkedin.com/in/shwetang-desai-090671229
-- Check out my website at: https://shwetang.herokuapp.com
+- Check out my website at: https://sdportfolio-psi.vercel.app
      
 
 <!---
